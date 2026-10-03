@@ -4,7 +4,8 @@
 ![Dashboard Preview](./Visual%20overall.png)
 
 ## 📌 Project Overview
-This project delivers a comprehensive, interactive Business Intelligence dashboard built in **Microsoft Power BI** to analyze global chocolate sales performance, financial metrics, and customer purchasing behaviors across multi-year operations. Utilizing a retail dataset sourced from Kaggle, the dashboard equips stakeholders with granular visibility into macro-level revenue streams, brand profitability, store rankings, and demographic trends across international markets.
+This project delivers a comprehensive, interactive Business Intelligence dashboard built in **Microsoft Power BI** to analyze global chocolate sales performance, financial metrics, and customer purchasing behaviors across multi-year operations. 
+Utilizing a retail meta dataset sourced from Kaggle, the dashboard equips stakeholders with granular visibility into macro-level revenue streams, brand profitability, store rankings, and demographic trends across international markets.
 
 ---
 
