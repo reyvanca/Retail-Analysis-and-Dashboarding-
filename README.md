@@ -11,11 +11,11 @@ This project delivers a comprehensive, interactive Business Intelligence dashboa
 ## 🚀 Key Features & Interactive Visualizations
 
 * **Executive KPI Summary Cards:** Real-time macro tracking of core business metrics across the entire dataset—Total Revenue (**Rp2.04bn**), Net Profit (**Rp927.73M**), and Total Order Count (**1.00M**) from all months -supplemented by month filter and by month-over-month (MoM) growth indicators.
-* **Profit Trajectory (`Profit by Year and Month`):** Time-series line visualization mapping multi-year profit fluctuations across 2023 and 2024 to diagnose seasonal cycles, baseline earnings, and operational volatility.
-* **Product Performance Matrix (`Profit by Brand and Category`):** Stacked bar breakdown evaluating profit margins across top-tier brands (e.g., Ferrero, Cadbury, Lindt, Mars, Godiva) and product lines (Dark, Milk, Praline, Truffle, White).
-* **Customer Segmentation (`Order Count by Age Group and Gender`):** Dual-axis segmented chart analyzing purchasing volume across diverse age cohorts (ranging from 18-24 to 55-64) and gender demographics.
-* **Geographic Market Share (`Revenue by Country`):** Donut chart illustrating international revenue distribution across Canada, the UK, the USA, France, Australia, and Germany.
-* **Store Leaderboard (`Top 10 Stores`):** Ranked performance table highlighting the highest-earning retail locations (led by *Chocolate Store 74*, *33*, and *50*).
+* **Profit Trajectory (`Revenue/Profit/Order Count by Year and Month`):** Time-series line visualization mapping multi-year profit fluctuations across 2023 and 2024 to diagnose seasonal cycles, baseline earnings, and operational volatility.
+* **Product Performance Matrix (`Revenue/Profit/Order Count by Brand and Category`):** Stacked bar breakdown evaluating profit margins across top-tier brands (e.g., Ferrero, Cadbury, Lindt, Mars, Godiva) and product lines (Dark, Milk, Praline, Truffle, White).
+* **Customer Segmentation (`Revenue/Profit/Order Count by Age Group and Gender`):** Dual-axis segmented chart analyzing purchasing volume across diverse age cohorts (ranging from 18-24 to 55-64) and gender demographics.
+* **Geographic Market Share (`Revenue/Profit/Order Count`):** Donut chart illustrating international revenue distribution across Canada, the UK, the USA, France, Australia, and Germany.
+* **Store Leaderboard (`Top 10 Stores by Revenue/Profit/Order Count`):** Ranked performance table highlighting the highest-earning retail locations (led by *Chocolate Store 74*, *33*, and *50*).
 
 ---
 
