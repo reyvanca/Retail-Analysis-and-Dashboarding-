@@ -35,7 +35,7 @@ This project delivers a comprehensive, interactive Business Intelligence dashboa
 ---
 
 ## 📈 Recommended Actionable Takeaways
-* **Spread the Investment accross All of Shops:** Despite some of stores have lead compared the others but their profit doesn't much than other stores (Rp 10k-RP 450K or 0.1%-5% profit difference each shop).
+* **Spread the Investment accross All of Shops:** Despite some of stores have lead compared the others but their profit doesn't much different than the other chocolates stores (Rp 10k-RP 450K or 0.1%-5% profit difference each shop).
 * **Expand Premium Inventory:** Scale up production and stocking of high-margin *Dark*, *White* *Praline* varieties from top-performing brands like Ferrero to boost average order values (AOV). Analyze the reason *Milk*'s profit is falling short compared other categories.
 * **Targeted Marketing Campaigns:** Design digital loyalty initiatives tailored specifically to the high-converting 25–64 age demographic to maintain engagement and retention.
 * **Geographic Penetration:** Replicate successful go-to-market strategies from top-performing countries (Canada and the UK) to optimize sales in Germany (underrepresented regions).
