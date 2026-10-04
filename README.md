@@ -30,7 +30,7 @@ Utilizing a retail meta dataset sourced from Kaggle, the dashboard equips stakeh
 ## 💡 Key Business Insights
 1. **Strong Aggregate Performance:** Across the full dataset lifecycle, the business generated **Rp2.04bn** in revenue and **Rp927.73M** in net profit from **1.00M** total orders.
 2. **Category & Brand Dominance:** Premium brands (such as Ferrero and Lindt) combined with *Dark*, *Praline* and *White* categories command the largest share of profitability, demonstrating that high-end segments drive bottom-line growth over bulk mass-market items.
-3. **Core Demographic Engagement:** Customer purchase volume is heavily concentrated in the **25–64** age brackets, with a balanced gender distribution that highlights broad, resilient appeal among working-age adults.
+3. **Core Demographic Engagement:** Customer purchase volume is heavily concentrated in the **25–65+** age brackets, with a balanced gender distribution that highlights broad, resilient appeal among working-age adults.
 4. **Geographical Diversification:** Revenue is well-distributed across key international markets (led closely by Canada at **20.01%** and the UK), indicating a stable multi-region footprint rather than heavy reliance on a single domestic market. Germany revenue fallling behind than others countries with contribution of **12.02%** 
 
 ---
