@@ -1,6 +1,6 @@
 # Retail-Analysis-and-Dashboarding
-# 🍫 Global Chocolate Sales & Profitability Intelligence Dashboard
-
+## 🍫 Chocolate Sales & Profitability Intelligence Dashboard
+![Dashboard Preview](./Visual.png)
 ![Dashboard Preview](./Visual%20overall.png)
 
 ## 📌 Project Overview
