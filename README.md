@@ -1,6 +1,7 @@
 # Retail-Analysis-and-Dashboarding
-## 🍫 Chocolate Sales & Profitability Intelligence Dashboard
+## 🍫 Chocolate Sales & Profitability Intelligence Dashboard Monthly (MoM)
 ![Dashboard Preview](./Visual.png)
+## 🍫 Chocolate Sales & Profitability Intelligence Dashboard
 ![Dashboard Preview](./Visual%20overall.png)
 
 ## 📌 Project Overview
